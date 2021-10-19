@@ -1,7 +1,7 @@
 .slider {
-    width: 460px;
-    height: 200px;
-    border: 1px solid black;
+    width: 1000px;
+    height: 400px;
+    border: 20px solid rgb(105, 118, 240);
     position: relative;
     overflow: hidden;
     margin-left: auto;
@@ -14,7 +14,7 @@
 }
 .slider__wrapper img{
     width: 50%;
-    height: 200px;
+    height: 400px;
 }
 .slider .slider__slide {
 width: 100%;
